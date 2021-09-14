@@ -1,0 +1,31 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    color: blue;
+}
+
+p{
+    color: crimson;
+    font-size: 26px;
+}
+
+
+#parrafo2{
+    color: darkgreen;
+    font-size: 26px;
+}
+
+#parrafo3{
+    color: darkkhaki;
+    font-size: 20px;
+}
+
+.destacado{
+    color: maroon;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
